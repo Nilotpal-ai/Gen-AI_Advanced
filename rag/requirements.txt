@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+loguru
+pymupdf
+pytesseract
+pillow
+opencv-python
+qdrant-client
+sentence-transformers
+rapidfuzz
+qdrant-client
+python-dotenv
+
+#pip install -r requirements.txt
